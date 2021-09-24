@@ -1,4 +1,4 @@
-<h1>Contador</h1>
+<h1>App Contador</h1>
 <ul>
   <li type="circle">Developer: Johan Zambrano</li>
 </ul>
