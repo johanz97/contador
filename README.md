@@ -1,16 +1,23 @@
-# contador
+<h1>Contador</h1>
+<ul>
+  <li type="circle">Developer: Johan Zambrano</li>
+</ul>
 
-A new Flutter project.
+A mobile app created with Flutter
 
-## Getting Started
+<ul>
+  <li type="circle"><h3>Android</h3></li>
+</ul>
 
-This project is a starting point for a Flutter application.
+![Screenshot_20210924-110101](https://user-images.githubusercontent.com/25967495/134707288-2cf71e14-55cb-4e57-b3cf-ce5857125ff0.jpg)
+![Screenshot_20210924-110046](https://user-images.githubusercontent.com/25967495/134707294-590f54fb-1b84-480d-92b5-de1ced52b33a.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Get packages</h2>
+<ul>
+  <li type="circle"><h3>flutter packages get</h3></li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Run App</h2>
+<ul>
+  <li type="circle"><h3>Flutter run</h3></li>
+</ul>
